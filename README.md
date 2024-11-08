@@ -1,6 +1,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **IOS App Development**
 
 - 💬 Ask me about **Go Flutter Backend Architecture Flutter Django ReactJs Python**
 
